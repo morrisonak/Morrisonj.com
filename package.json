@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": ">=16.13.0"
+    "node": "<=16.13.0"
   },
   "dependencies": {
     "@prisma/client": "^3.8.0",
