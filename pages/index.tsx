@@ -13,34 +13,26 @@ export default function Home({ videos }) {
         <div className="flex flex-col-reverse sm:flex-row items-start">
           <div className="flex flex-col pr-8">
             <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-black dark:text-white">
-              Lee Robinson
+              Justin Morrison
             </h1>
             <h2 className="text-gray-700 dark:text-gray-200 mb-4">
-              Director of Developer Relations at{' '}
-              <span className="font-semibold">Vercel</span>
+              Program Manager at{' '}
+              <span className="font-semibold">Capital Metropolitan Transportation Authority</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-16">
-              Helping developers build a faster web. Teaching about web
-              development, serverless, and React / Next.js.
+              Railroad signal profesional, Wayside, Crossing and PTC.
             </p>
           </div>
-          <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 mr-auto">
-            <Image
-              alt="Lee Robinson"
-              height={176}
-              width={176}
-              src="/avatar.jpg"
-              className="rounded-full filter grayscale"
-            />
-          </div>
+       
+          
         </div>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-6 text-black dark:text-white">
           Featured Posts
         </h3>
         <div className="flex gap-6 flex-col md:flex-row">
           <BlogPostCard
-            title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
-            slug="style-guides-component-libraries-design-systems"
+            title="Everything from 2019"
+            slug="2019"
             gradient="from-[#D8B4FE] to-[#818CF8]"
           />
           <BlogPostCard
