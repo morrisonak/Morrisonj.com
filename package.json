@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": ">=16.13.0"
+  },
   "dependencies": {
     "@prisma/client": "^3.8.0",
     "@tailwindcss/typography": "0.5.0",
