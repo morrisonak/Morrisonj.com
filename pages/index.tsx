@@ -31,8 +31,8 @@ export default function Home({ videos }) {
         </h3>
         <div className="flex gap-6 flex-col md:flex-row">
           <BlogPostCard
-            title="Everything from 2019"
-            slug="2019"
+            title="Placeholder Blog Post"
+            slug="Placeholder-1"
             gradient="from-[#D8B4FE] to-[#818CF8]"
           />
           <BlogPostCard
