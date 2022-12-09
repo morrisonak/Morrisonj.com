@@ -12,28 +12,12 @@ export default function About() {
         </h1>
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p>
-            Hey, I’m Lee. I'm a developer, writer, and the creator of&nbsp;
-            <a
-              href="https://masteringnextjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Mastering Next.js
-            </a>
-            &nbsp;and&nbsp;
-            <a
-              href="https://react2025.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              React 2025.
-            </a>
+            Hey, I’m Justin. I'm a 
+            
             &nbsp;I work at 
           </p>
           <p>
-            I’ve spoken across the country at conferences and meet-ups about
-            front-end development, design, and recruiting. I write about
-            development, tech careers, and my personal life on&nbsp;
+            
             <Link href="/newsletter">
               <a>my newsletter.</a>
             </Link>
