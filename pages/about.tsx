@@ -28,7 +28,7 @@ export default function About() {
             >
               React 2025.
             </a>
-            &nbsp;I work at ▲Vercel as the Director of Developer Relations.
+            &nbsp;I work at 
           </p>
           <p>
             I’ve spoken across the country at conferences and meet-ups about
@@ -39,19 +39,11 @@ export default function About() {
             </Link>
           </p>
           <p>
-            I grew up in small-town Iowa and went to school at Iowa State,
-            graduating with a degree in Computer Engineering. I spend my free
-            time playing music, creating videos, and enjoying time with friends
-            and family in Des Moines, IA.
+            I grew up in alaska and now live in Austin, Texas.
           </p>
         </div>
         <Timeline />
-        <iframe
-          height="280"
-          src="https://www.google.com/maps/d/embed?mid=1QOGi-u8d4vwoQ4vC4zQjKxrSfsDIQdOK&hl=en"
-          title="Lee's Travel Map"
-          width="100%"
-        />
+        
       </div>
     </Container>
   );
