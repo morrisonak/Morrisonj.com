@@ -4,15 +4,15 @@
 
 // async function generate() {
 //   const feed = new RSS({
-//     title: 'Lee Robinson',
-//     site_url: 'https://leerob.io',
-//     feed_url: 'https://leerob.io/feed.xml'
+//     title: 'Justin Morrison',
+//     site_url: 'https://morrisonj.com',
+//     feed_url: 'https://morrisonj.com/feed.xml'
 //   });
 
 //   allBlogs.map((post) => {
 //     feed.item({
 //       title: post.title,
-//       url: `https://leerob.io/blog/${post.slug}`,
+//       url: `https://morrisonj.com/blog/${post.slug}`,
 //       date: post.publishedAt,
 //       description: post.summary
 //     });

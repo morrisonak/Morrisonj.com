@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://leerob.io/sitemap.xml
+Sitemap: https://morrisonj.com/sitemap.xml

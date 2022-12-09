@@ -40,7 +40,7 @@ export default function Container(props) {
   const meta = {
     title: 'Justin Morrison',
     description: `Front-end developer, JavaScript enthusiast, and course creator.`,
-    image: 'https://leerob.io/static/images/banner.png',
+    image: 'https://morrisonj.com/static/images/banner.png',
     type: 'website',
     ...customMeta
   };
