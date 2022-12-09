@@ -51,8 +51,7 @@ const FullTimeline = () => (
         it.
       </Step>
       <Step title="Joined Hy-Vee 🛒">
-        It was time for a change in my career, and Hy-Vee came calling. The best
-        part was reducing my commute time by an hour/day.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
@@ -63,16 +62,14 @@ const FullTimeline = () => (
         this degree.
       </Step>
       <Step title="Family Roadtrip 🚗">
-        To celebrate graduating, my family and I did a road trip down the
-        Pacific Coast Highway in California. An unforgettable experience.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
       <Step title="Full-Time at Workiva">
         I was offered and accepted a full-time offer with Workiva, as well as
         the opportunity to continue my internship until graduation.
       </Step>
       <Step title="Moved to Des Moines 🏙">
-        I moved Downtown DSM into a quaint 1BR apartment. Des Moines has always
-        felt like home growing up ~45 minutes away.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
@@ -87,8 +84,7 @@ const FullTimeline = () => (
         to ISU Freshman.
       </Step>
       <Step title="Second Internship">
-        Spent the summer in (beautiful?) Cedar Rapids, IA working at Rockwell
-        Collins.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
@@ -98,50 +94,41 @@ const FullTimeline = () => (
         I opted to stay at my internship full-time throughout the fall.
       </Step>
       <Step title="Landed First Internship">
-        Finally felt like I understood this whole programming thing. My
-        interviewing skills weren't great, but I managed to snag my first
-        internship.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
     <Year>2011</Year>
     <ul>
       <Step title="Graduated High School">
-        My hometown had about 1000 people, in total. My graduating class was 36.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
       <Step title="Started at Iowa State University 🌪❤️">
-        I've been a die-hard Cyclone fan my whole life. It was a no-brainer that
-        I was going to ISU, especially since they have a great Engineering
-        program.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
       <Step title="Learned How To Program">
-        CS 101. Our professor asked a simple question - "Who here has prior
-        programming experience?". About 80% of the class raised their hands. I
-        knew it was going to be an uphill battle from here.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
       <Step title="Wanted To Dropout of College">
-        I didn't pick up programming right away. It didn't help we learned C to
-        start – I'm glad I stuck with it, though.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
     <Year>1998</Year>
     <ul>
       <Step title="First Computer">
-        I remember many nights playing Age of Empires, Lego Island, and
-        Runescape.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
     <Year>1997</Year>
     <ul>
       <Step title="Became a Pokémon Master">
-        Every time we'd go to Target, I would beg my mom to get a pack of
-        Pokémon cards. Sorry, mom.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </Step>
     </ul>
     <Divider />
-    <Year>1993</Year>
+    <Year>19</Year>
     <ul>
       <Step title="Born 👶🏼🍼" />
     </ul>
