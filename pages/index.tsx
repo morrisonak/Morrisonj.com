@@ -31,8 +31,8 @@ export default function Home({ videos }) {
         </h3>
         <div className="flex gap-6 flex-col md:flex-row">
           <BlogPostCard
-            title="Placeholder Blog Post"
-            slug="Placeholder-1"
+            title="What is E-ATC?"
+            slug="E-atc"
             gradient="from-[#D8B4FE] to-[#818CF8]"
           />
           <BlogPostCard
