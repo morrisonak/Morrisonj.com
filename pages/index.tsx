@@ -36,8 +36,8 @@ export default function Home({ videos }) {
             gradient="from-[#D8B4FE] to-[#818CF8]"
           />
           <BlogPostCard
-            title="Rust Is The Future of JavaScript Infrastructure"
-            slug="rust"
+            title="Ace Framework"
+            slug="ace"
             gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]"
           />
           <BlogPostCard
